@@ -115,21 +115,6 @@ server_info info(
 3. **录像操作** - 查询、回放、下载
 4. **系统监控** - 状态查看、会话管理
 
-## 📁 项目结构
-
-```
-sipserver/
-├── CMakeLists.txt          # 构建配置
-├── main.cpp               # 主程序入口
-├── SipServer.h/cpp        # 核心服务器实现
-├── Utils/                 # 工具类
-│   ├── Log.cpp/h          # 日志系统
-│   ├── MD5.c/h            # MD5计算
-│   └── HTTPDigest.c/h     # HTTP摘要认证
-└── docs/                  # 文档
-    └── README.md
-```
-
 ## 🔧 配置选项
 
 ### 网络配置
