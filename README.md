@@ -78,7 +78,7 @@ SIP Server Core
 ### 快速开始
 ```bash
 # 克隆项目
-git https://github.com/Innnoa/SIP-Server-GB28181-Protocol-Implementation-.git
+git https://github.com/Innnoa/SIP-Server-GB28181-Protocol-Implementation.git
 cd sipserver
 
 # 构建项目
